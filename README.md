@@ -57,4 +57,4 @@ If you'd like to contribute to CineHub, please follow these guidelines:
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](mailto:manojkpr92806@gmail.com).
+For any inquiries or feedback, please contact [manojkpr92806@gmail.com](mailto:manojkpr92806@gmail.com).
