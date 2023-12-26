@@ -5,13 +5,12 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-kapt'
 
 android {
-    compileSdk 31
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.devdreamerx.cinehub"
         minSdk 29
-        //noinspection ExpiredTargetSdkVersion
-        targetSdk 31
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
